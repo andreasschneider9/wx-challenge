@@ -45,7 +45,7 @@ Watsonx.governance unterstützt bei der Steuerung und Verwaltung - sowohl genera
   
 * Genauigkeit, Robustheit und Cyber-Überwachung (Artikel 15)
   
-* Risiko-Atlas (Artikel 9).
+* Risiko-Atlas (Artikel 9)
 
 # Unterstützung durch IBM Consulting
 Durch den rasanten Fortschritt von Technologien und regulatorischen Anforderungen sind unterschiedliche Aspekte zu betrachten:
