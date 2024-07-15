@@ -33,19 +33,19 @@ Watsonx.governance unterstützt bei der Steuerung und Verwaltung - sowohl genera
 * Steuerung und Überwachung des Lebenszyklus - Unterstützung bei der Verwaltung von generativen KI- und prädiktiven maschinellen Lernmodellen über den gesamten Lebenszyklus hinweg mithilfe integrierter Workflows und Genehmigungen, Überwachung des Status von Anwendungsfällen, laufenden Änderungsanfragen, Herausforderungen, Problemen und zugewiesenen Aufgaben.
 
 # watsonx.governance und der EU AI Act
-* Anwendbarkeit und Risikokategorisierungen [Artikel 5,6 & 7]
-  
-* Fragebogen zur Bewertung der Anwendbarkeit von EU AI und der Risikokategorisierung [Management-Konsole - MRG]
-  
-* Qualitätsmanagementsystem [Artikel 17]
-  
-* Identifizierung und Bewertung von KI-Risiken [Artikel 9]
+* Anwendbarkeit und Risikokategorisierungen (Artikel 5,6 & 7)
 
-* Technische Dokumentation und Aufzeichnungen [Artikel 11,12 & 18]
+* Fragebogen zur Bewertung der Anwendbarkeit von EU AI und der Risikokategorisierung (Management-Konsole - MRG)
 
-* Genauigkeit, Robustheit und Cyber-Überwachung [Artikel 15]
+* Qualitätsmanagementsystem (Artikel 17)
+  
+* Identifizierung und Bewertung von KI-Risiken (Artikel 9)
 
-* Risiko-Atlas [Artikel 9]
+* Technische Dokumentation und Aufzeichnungen (Artikel 11,12 & 18)
+  
+* Genauigkeit, Robustheit und Cyber-Überwachung (Artikel 15)
+  
+* Risiko-Atlas (Artikel 9).
 
 # Unterstützung durch IBM Consulting
 Durch den rasanten Fortschritt von Technologien und regulatorischen Anforderungen sind unterschiedliche Aspekte zu betrachten:
